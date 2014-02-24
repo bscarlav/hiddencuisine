@@ -23,7 +23,7 @@ var hiddenCuisine = {
 
     getThumbnail: function (imageUrl) {
         if (!imageUrl) {
-            return "../img/placeholder_white.jpg";
+            return "img/placeholder_white.jpg";
         }
 
         var extension = imageUrl.substring(imageUrl.length - 4, imageUrl.length);
