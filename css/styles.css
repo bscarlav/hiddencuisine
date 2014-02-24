@@ -1,0 +1,9 @@
+.row-fluid {
+    padding-bottom: 25px;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 400px;
+    overflow-x: hidden;
+}
